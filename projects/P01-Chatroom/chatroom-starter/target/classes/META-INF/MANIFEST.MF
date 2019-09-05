@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mogue
+Build-Jdk: 11.0.1
+Implementation-Title: Chatroom
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: edu.udacity.java.nano
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/chatroom-starter
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,5 @@
+edu\udacity\java\nano\chat\config\WebSocketConfig.class
+edu\udacity\java\nano\chat\model\Message.class
+edu\udacity\java\nano\WebSocketChatApplication.class
+edu\udacity\java\nano\chat\WebSocketChatServer.class
+edu\udacity\java\nano\chat\model\MessageType.class
